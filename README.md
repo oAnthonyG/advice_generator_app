@@ -1,6 +1,11 @@
-# advice_generator_app
+# # Frontend Mentor - Advice generator app
 
-A new Flutter project.
+
+## Welcome! 👋
+
+Thanks for checking out this front-end coding challenge.
+
+[Frontend Mentor](https://www.frontendmentor.io) challenges help you improve your coding skills by building realistic projects.
 
 ## Getting Started
 
@@ -14,3 +19,6 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+
+
+![Design](./images/mobile-design.jpg)
